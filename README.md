@@ -15,3 +15,10 @@ for me, and I set out to generate actual decks.
 All the credits for the assets go to Vincent.
 You can book him for a fun game of Powerpoint Karaoke with your team.
 
+# install & run
+1. You need Python installed on your machine
+1. `pip install -r requirements.txt`
+1. `python main.py`
+
+Should do the trick. Pick up the decks in
+`/generated/deck_xx.pptx`
