@@ -19,9 +19,9 @@ You can book him [for free](https://twitter.com/VinWijNL/status/1351850714226708
 More about [Vincent on Twitter](https://twitter.com/vinwijnl).
 
 # install & run
-1. You need Python installed on your machine
+1. You need Python installed on your machine. From the repo root:
 1. `pip install -r requirements.txt`
-1. `python main.py`
+1. `python src/main.py`
 
 Should do the trick. Pick up the decks in
 `/generated/deck_xx.pptx`
