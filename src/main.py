@@ -47,5 +47,5 @@ def generate_one_deck(deckid):
     prs.save(str(ppt_path))
 
 if __name__ == '__main__':
-    for deck in range(5):
+    for deck in range(1,15):
         generate_one_deck(deck)
