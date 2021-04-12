@@ -1,0 +1,5 @@
+# let's not check files in, if they fit the bill
+generated/
+venv/
+
+
