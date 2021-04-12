@@ -1,19 +1,22 @@
 # powerpoint Karaoke decker
-Randomly creates an actual powerpoint deck by slapping together
-5 random slides from the `assets` folder, adding
-a Welcome page and a Thank you page.
+Randomly creates a .pptx deck (one file) by slapping together
+* a boring welcome page
+* 5 random slides from the `assets` folder,
+* a Thank you page.
 
 # Why would you need this?
-Ok, so the real fun is created by Vincent. He built a random
+Ok, so the _real_ fun is created by Vincent. He built a random
 slide generator for powerpoint Karaoke. But the
-issue what his machinery is that it generates
-live slides, you cannot load those into powerpoint.
+issue with his machinery is it generates
+live on-screen only. You cannot load that into powerpoint.
 
-So Vincent generated a few hundred slides offline
+So, Vincent generated a few hundred slides offline
 for me, and I set out to generate actual decks.
 
 All the credits for the assets go to Vincent.
 You can book him for a fun game of Powerpoint Karaoke with your team.
+
+More about [Vincent on Twitter](https://twitter.com/vinwijnl).
 
 # install & run
 1. You need Python installed on your machine
