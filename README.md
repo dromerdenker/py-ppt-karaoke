@@ -14,7 +14,7 @@ So, Vincent generated a few hundred slides offline
 for me, and I set out to generate actual decks.
 
 All the credits for the assets go to Vincent.
-You can book him for a fun game of Powerpoint Karaoke with your team.
+You can book him [for free](https://twitter.com/VinWijNL/status/1351850714226708480) for a fun game of Powerpoint Karaoke with your team.
 
 More about [Vincent on Twitter](https://twitter.com/vinwijnl).
 
