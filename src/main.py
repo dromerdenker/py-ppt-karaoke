@@ -24,7 +24,7 @@ def add_random_slide(prs):
     left = Inches(0)
     top = Inches(0)
     slide = slide.shapes.add_picture(
-        img_path, Inches(0.1), Inches(0.1),
+        img_path, left, top,
         width=Inches(9), height=Inches(5))
 
 
@@ -40,7 +40,7 @@ def generate_one_deck(deckid):
     prs = Presentation()
     add_text_slide(prs, "Welcome to ppt-karaoke", f"Deck-{deckid:02}")
 
-    for sl in range(NETT_SLIDES_PER_DECK):
+    for _ in range(NETT_SLIDES_PER_DECK):
         add_random_slide(prs)
     add_text_slide(prs, "Thank you!", "Who is next? :-)")
 
